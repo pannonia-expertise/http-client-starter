@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+autoconfigure.com.pannoniaexpertise.httpclient.config.HttpClientConfiguration
