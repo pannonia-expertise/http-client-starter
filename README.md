@@ -1,3 +1,5 @@
+[![Known Vulnerabilities](https://snyk.io/test/github/pannonia-expertise/http-client-starter/badge.svg)](https://snyk.io/test/github/pannonia-expertise/http-client-starter)
+
 # http-client-starter
 
 **How to use**<br />
