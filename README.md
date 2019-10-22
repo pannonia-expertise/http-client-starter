@@ -14,3 +14,6 @@ authorization.server.scope=scope
 ```
 <br />
 -Http client is ready to use <br />
+
+
+contributors: @nstanar @b-laci
